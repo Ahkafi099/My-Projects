@@ -1,0 +1,29 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#header {
+    background: #343A40;
+    color: #fff;
+}
+
+#icon-box {
+    .fa {
+        font-size: 50px;
+        color: #fff;
+    }
+}
+
+#clint {
+    .icon {
+        font-size: 20px;
+    }
+}
+
+#fiexd {
+  position: sticky;
+  top: 0;
+  left: 100%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
